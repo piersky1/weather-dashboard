@@ -8,7 +8,7 @@ A simple weather app that utilizes the free, open-source OpenWeather API. Built 
 * Bootstrap
 * JavaScript
 * JQuery
-* ![OpenWeather API](https://openweathermap.org/)
+* [OpenWeather API](https://openweathermap.org/)
 
 Enter city name (no state code required), then click button to search for current and five day forecast for given city. Can toggle through search history to see past results.
 
