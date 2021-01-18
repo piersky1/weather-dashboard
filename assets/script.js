@@ -130,7 +130,7 @@ var display5Day = function(weather) {
 
 
 		var forecastElement = document.createElement("div");
-		forecastElement.classList = "card bg-primary text-light m-2";
+		forecastElement.classList = "card bg-dark text-light m-2";
 
 		var forecastDate = document.createElement("h5")
 		forecastDate.textContent = moment.unix(dailyForecast.dt).format("MMM D, YYYY");
